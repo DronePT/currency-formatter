@@ -1,58 +1,58 @@
 {
   "de": {
-    "thousandsSeparator": ".",
+    "decimalDigits": 2,
     "decimalSeparator": ",",
-    "symbolOnLeft": false,
     "spaceBetweenAmountAndSymbol": true,
-    "decimalDigits": 2
+    "symbolOnLeft": false,
+    "thousandsSeparator": "."
   },
   "el": {
-    "symbolOnLeft": true,
-    "spaceBetweenAmountAndSymbol": false,
-    "thousandsSeparator": ".",
+    "decimalDigits": 2,
     "decimalSeparator": ",",
-    "decimalDigits": 2
-  },
-  "en-US": {
-    "thousandsSeparator": ",",
-    "decimalSeparator": ".",
-    "symbolOnLeft": true,
     "spaceBetweenAmountAndSymbol": false,
-    "decimalDigits": 2
+    "symbolOnLeft": true,
+    "thousandsSeparator": "."
   },
   "en-IE": {
-    "symbolOnLeft": true,
-    "thousandsSeparator": ",",
+    "decimalDigits": 2,
     "decimalSeparator": ".",
     "spaceBetweenAmountAndSymbol": true,
-    "decimalDigits": 2
-  },
-  "zh-CN": {
-    "thousandsSeparator": ",",
-    "decimalSeparator": ".",
     "symbolOnLeft": true,
+    "thousandsSeparator": ","
+  },
+  "en-US": {
+    "decimalDigits": 2,
+    "decimalSeparator": ".",
     "spaceBetweenAmountAndSymbol": false,
-    "decimalDigits": 2
+    "symbolOnLeft": true,
+    "thousandsSeparator": ","
   },
   "es": {
-    "thousandsSeparator": ".",
+    "decimalDigits": 2,
     "decimalSeparator": ",",
-    "symbolOnLeft": false,
     "spaceBetweenAmountAndSymbol": true,
-    "decimalDigits": 2
+    "symbolOnLeft": false,
+    "thousandsSeparator": "."
   },
   "it": {
-    "symbolOnLeft": true,
-    "spaceBetweenAmountAndSymbol": false,
-    "thousandsSeparator": ".",
+    "decimalDigits": 2,
     "decimalSeparator": ",",
-    "decimalDigits": 2
+    "spaceBetweenAmountAndSymbol": false,
+    "symbolOnLeft": true,
+    "thousandsSeparator": "."
   },
   "nl": {
-    "symbolOnLeft": true,
-    "spaceBetweenAmountAndSymbol": false,
-    "thousandsSeparator": ".",
+    "decimalDigits": 2,
     "decimalSeparator": ",",
-    "decimalDigits": 2
+    "spaceBetweenAmountAndSymbol": false,
+    "symbolOnLeft": true,
+    "thousandsSeparator": "."
+  },
+  "zh-CN": {
+    "decimalDigits": 2,
+    "decimalSeparator": ".",
+    "spaceBetweenAmountAndSymbol": false,
+    "symbolOnLeft": true,
+    "thousandsSeparator": ","
   }
 }
